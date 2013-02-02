@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MKSoftMainMenu.cs">
+    <Files>
+      <File FileName="MKSoftHUDTime.cs" Line="1" Column="1" />
+      <File FileName="MKSoftGameManager.cs" Line="1" Column="1" />
+      <File FileName="MKSoftScripts/MKSoftBox.cs" Line="1" Column="1" />
+      <File FileName="MkGUIGoal.cs" Line="1" Column="1" />
+      <File FileName="MkGoal.cs" Line="1" Column="1" />
+      <File FileName="MkLemon.cs" Line="1" Column="1" />
+      <File FileName="MKSoftMessage.cs" Line="1" Column="1" />
+      <File FileName="MKSoftMainMenu.cs" Line="25" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
