@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+	<ProjectGuid>{6005370D-FE21-A0B8-DC42-D9AF9A8C7FFA}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -44,7 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\MKSoftGO.cs" />
      <Compile Include="Assets\MKSoftGameManager.cs" />
+     <Compile Include="Assets\MKSoftGameObjectID.cs" />
      <Compile Include="Assets\MKSoftHUDTime.cs" />
      <Compile Include="Assets\MKSoftLemon.cs" />
      <Compile Include="Assets\MKSoftMainMenu.cs" />
@@ -52,6 +54,7 @@
      <Compile Include="Assets\MKSoftMessages.cs" />
      <Compile Include="Assets\MKSoftObject500.cs" />
      <Compile Include="Assets\MKSoftScripts\MKSoftBox.cs" />
+     <Compile Include="Assets\MKSoftiPhoneTouch.cs" />
      <Compile Include="Assets\MkGUIGoal.cs" />
      <Compile Include="Assets\MkGoal.cs" />
      <Compile Include="Assets\MkLemon.cs" />

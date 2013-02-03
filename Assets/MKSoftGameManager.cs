@@ -29,10 +29,10 @@ public class MKSoftGameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		this.LemonStart();	
+	//	this.LemonStart();	
 	}
 	
-	public void LemonStart()
+	/*public void LemonStart()
 	{
 		if(!MKSoftLemon.instance.aktiviert == true)
 		{
@@ -42,7 +42,7 @@ public class MKSoftGameManager : MonoBehaviour {
 				MKSoftHUDTime.instance.start = true;
 			}
 		}
-	}
+	}*/
 	
 	public void savePunkte(string punkt)
 	{
